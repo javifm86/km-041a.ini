@@ -1,1 +1,2 @@
-# km-041a.ini
+## km-041a.ini ##
+Config file for spanish keyboard on Linux.
